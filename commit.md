@@ -1,1 +1,1 @@
-update and deploy firebase function for code.angularjs.org on 4/3/2017
+update and deploy firebase function for code.angularjs.org on 9/5/2017
